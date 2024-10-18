@@ -1,0 +1,4 @@
+SRC_FILES := src/main.c
+HEADER_FILES :=
+
+C_SRCS := $(SRC_FILES) $(HEADER_FILES)
